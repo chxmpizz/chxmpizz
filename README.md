@@ -23,5 +23,5 @@ I enjoy and fun for learning about New things Although I've started late.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=champnewbieE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=champnewbie&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=champNewbie&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=champNewbie&layout=compact&theme=radical)
