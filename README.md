@@ -24,5 +24,5 @@ I enjoy and fun for learning about New things Although I've started late.
 ![SHADCN/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=champNewbie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=champNewbie&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chxmpizz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chxmpizz&layout=compact&theme=radical)
