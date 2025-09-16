@@ -1,4 +1,3 @@
-<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/fbf07818-b4b0-453c-ac16-bbe158c8df18" />
 ## Hi , Everyone👋
 
 I'm Rattasat Onnomdee and you can call me 'Champ'. 
