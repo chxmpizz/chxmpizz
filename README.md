@@ -1,6 +1,7 @@
-<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/fbf07818-b4b0-453c-ac16-bbe158c8df18" />## Hi , Everyone👋
+<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/fbf07818-b4b0-453c-ac16-bbe158c8df18" />
+## Hi , Everyone👋
 
-Hello , I'm Rattasat Onnomdee and you can call me 'Champ'. 
+I'm Rattasat Onnomdee and you can call me 'Champ'. 
 I'm Computer Science at Thammasat University.
 I'm passionate on Web Development for a Full Stack developer or Data Science.
 I enjoy and fun for learning about New things Although I've started lately.
